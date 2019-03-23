@@ -155,11 +155,11 @@ catkin_make
 1st - Open one terminal and open a Gazebo world (note path may be different, the worlds files are in the "worlds" folder)  
 To open the "V" shaped wall world:
 ```
-roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/your_path_here/worlds/my_V_world
+roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/your_path_here/Reactive Robot/worlds/my_V_world
 ```
 To open the big, thick "W" world:
 ```
-roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/your_path_here/worlds/my_W_world
+roslaunch turtlebot_gazebo turtlebot_world.launch world_file:=/your_path_here/Reactive Robot/worlds/my_W_world
 ```
 
 

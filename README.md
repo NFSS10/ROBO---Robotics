@@ -111,13 +111,7 @@ To spawn an obstacle in the parking spot farthest to the crosswalk:
 ```
 roslaunch conde_world spawn_parking_obstacles_v1.launch
 ```
-
-<br>
-<br>
-
----
-<br>
-
+<hr>
 
 ## Reactive Robot
 A subsumption reactive robot using ROS (Robot Operating System) programmed to follow the outside of a "V" shaped wall and the interior walls of a large and very thick "W" shaped map, utilizing the turtlebot and gazebo simulation.  
